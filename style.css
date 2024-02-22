@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./img/OIP.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
